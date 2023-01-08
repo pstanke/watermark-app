@@ -1,6 +1,12 @@
 {
-  "name": "watermarkApp",
+  "name": "watermark",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "repository": "https://github.com/pstanke/watermark-app.git",
+  "author": "Pawel Stanke <pablostanke21@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "6.5.0",
+    "jimp": "0.6.4"
+  }
 }
